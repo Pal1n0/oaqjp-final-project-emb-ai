@@ -1,3 +1,7 @@
+"""
+Emotion detection library
+"""
+
 import requests
 
 def emotion_detector(text_to_analyse):
